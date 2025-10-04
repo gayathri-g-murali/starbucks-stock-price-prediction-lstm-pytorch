@@ -1,6 +1,6 @@
 # ☕ Starbucks Stock Price Prediction (LSTM & PyTorch) 🔮
 
-![Starbucks Logo](https://upload.wikimedia.org/wikipedia/sco/4/4b/Starbucks_Corporation_Logo_2011.svg)  
+![Starbucks Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffabrikbrands.com%2Fbranding-matters%2Flogofile%2Fstarbucks-logo-history-starbucks-mermaid%2F&psig=AOvVaw3e-PFjKmvUMfLhnzvn4pWy&ust=1759662114382000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICsmayyipADFQAAAAAdAAAAABAE)  
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1-red)](https://pytorch.org/)
